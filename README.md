@@ -8,7 +8,7 @@ Este script permite buscar transcritos específicos en un archivo GTF. Utiliza m
 
 - **Nombre:** Allan Javier Peñaloza Otárola
 - **Contacto:** allan.penaloza@ug.uchile.cl
-- **Fecha:** 12/10/2024
+- **Fecha:** 10/10/2024
 
 ## Requisitos
 
